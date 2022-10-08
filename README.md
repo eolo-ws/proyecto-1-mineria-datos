@@ -1,4 +1,6 @@
 # proyecto-1-mineria-datos
-jaime torres varas\
-jose flores mancilla ignacio\
-Camila Retamales
+Jaime Torres\
+Jose Flores\
+Camila Retamales\
+Benjamin Cordero\
+Joaquin Cortes
